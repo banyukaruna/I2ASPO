@@ -1,7 +1,7 @@
 # GUI_coba.py
 import customtkinter as ctk
 import random
-
+#BUAT PERUBAHAN
 # ===============================================================
 # KONFIGURASI SISTEM MURNI (ISOLATED GLOBAL)
 # ===============================================================
